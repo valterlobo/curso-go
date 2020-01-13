@@ -16,9 +16,9 @@ func main() {
 	// fale("Maria", "Pq vc não fala comigo?", 3)
 	// fale("João", "Só posso falar depois de vc!", 1)
 
-	// go fale("Maria", "Ei...", 500)
-	// go fale("João", "Opa...", 500)
+	 //go fale("Maria", "Ei...", 500)
+	 //go fale("João", "Opa...", 500)
 
-	go fale("Maria", "Entendi!!!", 10)
-	defer fale("João", "Parabéns!", 5)
+	 go fale("Maria", "Entendi!!!", 10)
+	 defer fale("João", "Parabéns!", 5)
 }

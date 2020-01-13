@@ -27,4 +27,5 @@ func main() {
 	fmt.Println(a, b)
 
 	fmt.Println(<-c)
+	//fmt.Println(<-c)
 }
